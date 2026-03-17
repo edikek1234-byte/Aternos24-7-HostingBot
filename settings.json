@@ -6,15 +6,15 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "sused77785321255.aternos.me",
+    "port": 50890,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 200,
     "z": 0
   },
   "utils": {
