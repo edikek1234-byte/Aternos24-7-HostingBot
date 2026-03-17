@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "sused77785321255.aternos.me",
-    "port": 50890,
+    "port":50890,
     "version": "1.21.11",
     "try-creative": false
   },
